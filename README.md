@@ -1,1 +1,4 @@
 # simulation
+
+-ライセンス
+*AtsukiKasai
